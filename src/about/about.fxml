@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="280.0" prefWidth="350.0" xmlns="http://javafx.com/javafx/8.0.65" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label layoutX="62.0" layoutY="55.0" text="Java++" textFill="#e1bd1e">
+         <font>
+            <Font name="System Bold" size="60.0" />
+         </font>
+      </Label>
+      <Label layoutX="85.0" layoutY="115.0" text="Notepad" textFill="#a89341">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Label>
+      <Label layoutX="15.0" layoutY="217.0" text="IES Poblenou - 2016/2017">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="15.0" layoutY="238.0" text="CFGS DAM M07. Desenvolupament de superfícies" />
+      <Label layoutX="15.0" layoutY="254.0" text="Lluís Bayer Soler" />
+      <Separator layoutX="11.0" layoutY="195.0" prefHeight="16.0" prefWidth="329.0" />
+   </children>
+</Pane>
